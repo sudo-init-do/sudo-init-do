@@ -29,14 +29,6 @@ I love clean UI, smooth UX, and scalable backend systems.
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudo-init-do&theme=darkhub&margin-w=10&no-frame=true" alt="Trophies" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
