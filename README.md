@@ -1,42 +1,57 @@
-<h1 align="center">Hey, I'm Oyeyemi Obaloluwa 👨🏾‍💻</h1>
-<h3 align="center">sudo-init-do — Full-Stack Developer | Problem Solver | Creator</h3>
+<h1 align="center">Oyeyemi Obaloluwa</h1>
+<h3 align="center">Full-Stack Developer | Backend-Focused | Problem Solver</h3>
+
+---
+
+<div align="center">
+
+```
+
+$ sudo-init-do
+
+> online
+
+```
+
+</div>
+
+---
+
+## About Me
+
+I'm a full-stack developer focused on building reliable, scalable and maintainable applications.  
+I care about clean architecture, performance and strong UX design.
+
+**Interests:** System design, security, API performance, developer tooling  
+**Location:** Nigeria  
+**Working Style:** Minimalist, detail-driven, dark-mode loyalist
+
+---
+
+## Skills & Tools
+
+**Languages:** TypeScript, Go, JavaScript, PHP, Dart  
+**Frameworks:** Next.js, React, Laravel, Flutter  
+**Backend:** PostgreSQL, Redis, REST, WebSockets, Microservices  
+**DevOps:** Docker, CI/CD, Linux, Nginx  
+**Other:** System design, performance tuning, debugging
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=$+Hey,+sudo-init-do+here" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudo-init-do&show_icons=true&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-init-do&layout=compact&hide_border=true&theme=transparent" height="150" />
 </p>
 
 ---
 
-### 🔎 About Me
-
-I'm **Oyeyemi Obaloluwa**, a full-stack developer who enjoys building modern web and mobile applications.  
-I love clean UI, smooth UX, and scalable backend systems.  
-
-- 🧠 Always learning: Security, Performance, Monetization strategies  
-- 🌍 Based in: Nigeria  
-- 🕶 Dark mode? Always.
-
----
-
-### 📊 GitHub Stats
+## Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudo-init-do&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <a href="https://linkedin.com/in/obaloluwa-oyeyemi">LinkedIn</a> •
+  <a href="mailto:oyeyemiobaloluwa311@gmail.com">Email</a> •
+  <a href="https://x.com/SecuredbyOba_">Twitter</a>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudo-init-do&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-init-do&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/obaloluwa-oyeyemi" target="_blank">LinkedIn</a> • 
-  <a href="https://instagram.com/sudo.init.do" target="_blank">Instagram</a> • 
-  <a href="mailto:oyeyemiobaloluwa311@gmail.com">Email</a> • 
-  <a href="https://x.com/SecuredbyOba_" target="_blank">X (Twitter)</a>
-</p>
+```
