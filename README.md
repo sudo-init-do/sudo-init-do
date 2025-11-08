@@ -14,9 +14,6 @@ Welcome, sudo-init-do
 
 system status: online
 
-yaml
-Copy code
-
 </div>
 
 ---
